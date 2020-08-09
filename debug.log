@@ -1,0 +1,2 @@
+[0809/213610.207:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Pawoon\AppData\Local\Temp\scoped_dir21112_1614493982\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0809/213942.664:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Pawoon\AppData\Local\Temp\scoped_dir7196_963121860\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
